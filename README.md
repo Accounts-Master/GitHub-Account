@@ -4,6 +4,8 @@ Base template for Canvas assignments. Currently (September of 2019) it does not 
 
 Each assignment is its own repository. The content that is visible on Canvas is in the **docs** folder.
 
+The master copy of the template (for creating additional assignments) is at [DouglasUrner/canvas-assignment-template](https://github.com/DouglasUrner/canvas-assignment-template).
+
 ## Usage
 
 This template is the boilerplate for a single Canvas assignment.

@@ -13,16 +13,17 @@ layout: tabbed-assignment
 1. Enter your e-mail, it will not be publically visible.
 1. Enter the password you want to use, make sure it meets the requirements. You may want to type it "in the clear" so that you can be sure it is right. Note that you don't have a password verification box. To fix a typo you will need to verify the account.
 1. After you click on the Sign Up button, you will be prompted to select an account (choose the **Free** option), and then you'll be asked for information about your experience and how you plan to use GitHub (you can skip that step).
+1. Finally you'll be prompted to verify your account, if you can access your e-mail verify the account now.
 1. Once you have created the account click on the avatar in the upper right hand corner and choose Settings from the dropdown menu, then enter your name (as I know you). This is especially important if you didn't use your name as your GitHub username.
-1. Then choose Profile from the same dropdown – it will take you to your GitHub profile page. Bookmark this page.
+1. Then choose Profile from the same dropdown – it will take you to your GitHub profile page. **Bookmark this page.**
 
 ## Practice working with Git and GitHub
 
-At the [GitHub Guides][gh-guides] site you will find a number of quick tutorials that will help you start to learn your way around Git and GitHub.
+Once you have verified your account, go to the [GitHub Guides][gh-guides] page where you will find some quick tutorials to help you start to learn your way around Git and GitHub.
 
 1. Read the [Understanding the GitHub Flow][gh-flow] guide.
 1. Then work through the [Hello World][hello-world] guide.
-1. After you have finishe the Hello World guide, click on your GitHub bookmark to return to your profile and notice that you have some new [contribution squares][gh-squares] (you should have at least five).
+1. After you have finished the Hello World guide, click on your GitHub bookmark to return to your profile and notice that you have a new [contribution square][gh-squares] (you should have at least five contributions).
 1. Click on your Hello World repository and you should see that you have, at least, three commits.
 
 Congratulations, you're rolling!

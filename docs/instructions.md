@@ -9,11 +9,12 @@ layout: tabbed-assignment
 ## Create an account on GitHub
 
 1. Click on the link to go to [GitHub (https://github.com)][github].
-2. Select a user name that you will be comfortable sharing with colleagues and potential employers. If you can get it your name is a good choice.
-3. Enter your e-mail, it will not be publically visible.
-4. Enter the password you want to use, make sure it meets the requirements. You may want to type it "in the clear" so that you can be sure it is right. Note that you don't have a password verification box. To fix a typo you will need to verify the account.
-5. Once you have created the account click on the avatar in the upper right hand corner and choose Settings from the dropdown menu, then enter your name (as I know you). This is especially important if you didn't use your name as your GitHub username.
-6. Then choose Profile from the same dropdown – it will take you to your GitHub profile page. Bookmark this page.
+1. Select a user name that you will be comfortable sharing with colleagues and potential employers. If you can get it your name is a good choice.
+1. Enter your e-mail, it will not be publically visible.
+1. Enter the password you want to use, make sure it meets the requirements. You may want to type it "in the clear" so that you can be sure it is right. Note that you don't have a password verification box. To fix a typo you will need to verify the account.
+1. After you click on the Sign Up button, you will be prompted to select an account (choose the **Free** option), and then you'll be asked for information about your experience and how you plan to use GitHub (you can skip that step).
+1. Once you have created the account click on the avatar in the upper right hand corner and choose Settings from the dropdown menu, then enter your name (as I know you). This is especially important if you didn't use your name as your GitHub username.
+1. Then choose Profile from the same dropdown – it will take you to your GitHub profile page. Bookmark this page.
 
 ## Practice working with Git and GitHub
 

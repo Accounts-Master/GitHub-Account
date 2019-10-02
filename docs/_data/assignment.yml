@@ -2,6 +2,6 @@
 #
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabes
-outcome: A working GitHub account and a basic understanding of how to work with Git and GitHub.
+outcome: You will have a verified GitHub account and a basic understanding of how to work with Git and GitHub.
 slides: https://gitpitch.com/Accounts-Master/GitHub-Account
 template: https://docs.google.com/document/d/1vZgm_Lbcyc1MnYhqrqAvK51tUeMJ5lmpNTmGyquTzXo/edit?usp=sharing

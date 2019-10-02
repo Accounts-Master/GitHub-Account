@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <img class="overview-image" src="assets/images/github-signup.png" alt="GitHub signup dialog.">
 
-## Create an account on GitHub
+## Create a GitHub account
 
 1. Click on the link to go to [GitHub (https://github.com)][github].
 1. Select a user name that you will be comfortable sharing with colleagues and potential employers. If you can get it your name is a good choice.
@@ -17,7 +17,7 @@ layout: tabbed-assignment
 1. Once you have created the account click on the avatar in the upper right hand corner and choose Settings from the dropdown menu, then enter your name (as I know you). This is especially important if you didn't use your name as your GitHub username.
 1. Then choose Profile from the same dropdown – it will take you to your GitHub profile page. **Bookmark this page.**
 
-## Practice working with Git and GitHub
+## Practice with Git and GitHub
 
 Once you have verified your account, go to the [GitHub Guides][gh-guides] page where you will find some quick tutorials to help you start to learn your way around Git and GitHub.
 

@@ -24,10 +24,10 @@ layout: tabbed-assignment
 
 Once you have verified your account, go to the [GitHub Guides][gh-guides] page where you will find some quick tutorials to help you start to learn your way around Git and GitHub.
 
-1. Read the [Understanding the GitHub Flow][gh-flow] guide.
-1. Then work through the [Hello World][hello-world] guide.
+1. Start by working through the [Hello World][hello-world] guide.
 1. After you have finished the Hello World guide, click on your GitHub bookmark to return to your profile and notice that you have a new [contribution square][gh-squares] (you should have at least five contributions).
 1. Click on your Hello World repository and you should see that you have, at least, three commits.
+1. Read the [Understanding the GitHub Flow][gh-flow] guide to understand more about how software developers work with Git and GitHub.
 
 Congratulations, you're rolling!
 

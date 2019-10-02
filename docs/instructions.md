@@ -4,6 +4,8 @@ layout: tabbed-assignment
 
 # Instructions
 
+<img class="overview-image" src="assets/images/github-signup.png">
+
 ## Create an account on GitHub
 
 1. Click on the link to go to [GitHub (https://github.com)][github].

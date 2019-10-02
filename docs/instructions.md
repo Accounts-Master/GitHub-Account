@@ -4,7 +4,7 @@ layout: tabbed-assignment
 
 # Instructions
 
-<img class="overview-image" src="assets/images/github-signup.png">
+<img class="overview-image" src="assets/images/github-signup.png" alt="GitHub signup dialog.">
 
 ## Create an account on GitHub
 

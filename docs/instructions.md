@@ -4,8 +4,6 @@ layout: tabbed-assignment
 
 # Instructions
 
-Here's what to do, in detail:
-
 ## Create an account on GitHub
 
 1. Click on the link to go to [GitHub (https://github.com)][github].

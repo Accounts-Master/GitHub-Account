@@ -15,7 +15,7 @@ After completing this lesson you will be able to:
   - **[Fork][]** a repository that you want to work on.
   - Create a **[branch][]** for you to work on.
   - **[Commit][]** your changes.
-  - Make a **[pull request][]** -- ask to your branch incorporated into the original source.
+  - Make a **[pull request][pull]** -- ask to your branch incorporated into the original source.
 
 <!-- Git & GitHub documentation and tutorials -->
 

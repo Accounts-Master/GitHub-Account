@@ -11,7 +11,7 @@ After completing this lesson you will be able to:
 * Create an account on GitHub.
 * Explain what a _Git [repository][]_ is.
 * While working on the GitHub website:
-  - * Create a new **[repository][]**.
+  - Create a new **[repository][]**.
   - **[Fork][]** a repository that you want to work on.
   - Create a **[branch][]** for you to work on.
   - **[Commit][]** your changes.

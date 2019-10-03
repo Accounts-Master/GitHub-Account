@@ -4,7 +4,9 @@ layout: tabbed-assignment
 
 # Overview
 
-<a href="https://explain.xkcd.com"><img class="overview-image" src="https://imgs.xkcd.com/comics/git.png" title="If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything."></a>
+<a href="https://explainxkcd.com/wiki/index.php/1597:_Git">
+  <img class="overview-image" src="https://imgs.xkcd.com/comics/git.png" title="If that doesn't fix it, git.txt contains the phone number of a friend of mine who understands git. Just wait through a few minutes of 'It's really pretty simple, just think of branches as...' and eventually you'll learn the commands that will fix everything.">
+</a>
 
 Today you are going to create an account on [GitHub][] one of the better known sites for hosting [Git][] repositories. Git is a _source code management_ system – a tool to help you keep track of changes in your software projects, like Unity games. When things go wrong, Git can help you figure out what changed, and who changed it. That's one of the first steps towards fixing it.
 

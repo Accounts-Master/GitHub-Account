@@ -11,9 +11,11 @@ After completing this lesson you will be able to:
 * Create up an account on GitHub.
 * Explain what a _Git [repository][]_ is.
 * Create a new git _repository_ on GitHub.
-* Use git to:
-  - **[fork][]** a repository that you want to work on.
-  - **[clone][]** a repostitory to your computer.
+* While working on the GitHub website:
+  - **[Fork][]** a repository that you want to work on.
+  - Create a **[branch][]** for you to work on.
+  - **[Commit][]** your changes.
+  - Make a **[pull request][]** -- ask to your branch incorporated into the original source.
 
 <!-- Git & GitHub documentation and tutorials -->
 

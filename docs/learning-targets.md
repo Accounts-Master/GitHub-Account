@@ -15,7 +15,7 @@ After completing this lesson you will be able to:
   - **[Fork][]** a repository that you want to work on.
   - Create a **[branch][]** for you to work on.
   - **[Commit][]** your changes.
-  - Make a **[pull request][pull]** -- ask to your branch incorporated into the original source.
+  - Make a **[pull request][pull-request]** -- ask to your branch incorporated into the original source.
 
 <!-- Git & GitHub documentation and tutorials -->
 
@@ -42,6 +42,7 @@ After completing this lesson you will be able to:
 [log]: <https://git-scm.com/docs/git-log>
 [merge]: <https://git-scm.com/docs/git-merge>
 [pull]: <https://git-scm.com/docs/git-pull>
+[pull-request]: <https://help.github.com/en/articles/creating-a-pull-request>
 [push]: <https://git-scm.com/docs/git-push>
 [status]: <https://git-scm.com/docs/git-status>
 

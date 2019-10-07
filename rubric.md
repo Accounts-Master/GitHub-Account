@@ -1,8 +1,5 @@
 # GitHub Account Setup Rubric
 
-Collaboration
-Account management
-
 | Looking for                       | Evidence                                  | Standards & Essential Tasks           |
 | :--                               | :--                                       | :--                                   |
 | Verified GitHub account           | A new repository (e.g., hello-world).     | Account Management                    |
